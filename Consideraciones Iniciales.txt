@@ -1,0 +1,35 @@
+¿Qué datos necesitas almacenar para cada empleado y su jornada de trabajo?
+
+Nombre, identificador único, puesto.
+
+Fecha, hora de entrada, hora de salida, actividades realizadas.
+
+Horas trabajadas: Horas ordinarias, horas especiales.
+
+¿Cómo determinarías la cantidad total de horas trabajadas en una semana?
+
+Sumar las horas trabajadas cada día de la semana, diferenciando entre horas ordinarias y especiales.
+
+Considerar las reglas laborales para determinar si las horas exceden los límites semanales y si aplican recargos.
+
+¿Cómo se diferenciarían las horas ordinarias de las horas especiales?
+
+Las horas ordinarias serían las trabajadas dentro del horario regular.
+
+Las horas especiales podrían ser aquellas trabajadas fuera del horario regular, en días festivos, o realizando actividades específicas que requieren habilidades especiales o condiciones de urgencia.
+
+¿Cómo se calcularía el pago total de un empleado considerando bonificaciones y deducciones?
+
+Calcular el pago base multiplicando las horas ordinarias por la tarifa ordinaria y las horas especiales por la tarifa especial.
+
+Aplicar bonificaciones basadas en factores como desempeño o disponibilidad.
+
+Restar deducciones por situaciones como ausencias o impuestos.
+
+¿Qué validaciones deberías realizar para asegurarte de que los datos ingresados son correctos?
+
+Validar que las horas de entrada y salida sean coherentes y no excedan los límites diarios.
+
+Verificar que las actividades registradas sean compatibles con el tiempo trabajado.
+
+Asegurarse de que las horas especiales estén justificadas y sean consistentes con las políticas de la empresa.
